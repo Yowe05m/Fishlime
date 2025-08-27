@@ -1,0 +1,9 @@
+BtnHovered.mp3
+BtnPressed.mp3
+FinishFishing.MP3
+FishingFailed.mp3
+HelpStateBtn.MP3
+QTEStart.wav
+QTESuccess.wav
+QTESuccess2times.mp3
+StartFishing.MP3
