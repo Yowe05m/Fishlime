@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Background.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="State.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HelpState.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadState.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuState.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayState.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseState.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StateStack.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Context.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FishItem.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InventoryState.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementBoundary.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QTEManager.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveState.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Background.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HelpState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StateStack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.hpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectManager.hpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObjectManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InventoryState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MovementBoundary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QTEManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveState.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

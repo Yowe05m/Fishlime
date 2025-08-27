@@ -1,0 +1,133 @@
+﻿  Animator.cpp
+  AudioManager.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“AudioManager.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  Background.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“Background.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  Button.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“Button.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  Game.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“Game.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  GameObject.hpp
+  GameObjectManager.cpp
+  GameObjectManager.hpp
+  HelpState.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“HelpState.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  InventoryState.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“InventoryState.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  LoadState.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“LoadState.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  main.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“main.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  MenuState.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“MenuState.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  MovementBoundary.cpp
+  PauseState.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“PauseState.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  Player.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“Player.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+\\mac\Home\Desktop\My_code\Game Design\Fishlime\Fishlime\Player.cpp(194,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  PlayState.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“PlayState.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  QTEManager.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“QTEManager.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  SaveState.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“SaveState.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+  StateStack.cpp
+C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: 非 dll 接口 class“std::runtime_error”用作 dll 接口 class“sf::Exception”的基
+  (编译源文件“StateStack.cpp”)
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      参见“std::runtime_error”的声明
+      C:\Mac\Home\Desktop\My_code\Game Design\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+      参见“sf::Exception”的声明
+  
+x64\Release\GameObjectManager.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  3363 of 3391 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Fishlime.vcxproj -> \\Mac\Home\Desktop\My_code\Game Design\Fishlime\x64\Release\Fishlime.exe
