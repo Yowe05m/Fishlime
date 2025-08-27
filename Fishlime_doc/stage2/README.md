@@ -286,7 +286,7 @@ private:
 
 ​	根据我们游戏的功能框架，再加以补充、优化，可以设计出以下六大板块的类：
 
-![Fishlime功能框架展示图](img/Fishlime功能框架展示图.jpg)
+![Fishlime功能框架展示图](../img/Fishlime功能框架展示图.jpg)
 
 <center>
   Fishlime功能框架图
@@ -402,13 +402,13 @@ private:
     - **`QTEManager`:** 封装和管理所有QTE玩法的复杂逻辑。
     - **`GameObjectManager`:** 统一创建、更新、渲染、销毁游戏对象。
 
-![类](/Users/machenglong/Desktop/Study/1c_程序设计实践/img/类.png)
+![类](../img/类.png)
 
 <center>
   类的架构图
 </center>
 
-![类图](img/类图.png)
+![类图](../img/类图.png)
 
 <center>
   类图
