@@ -224,7 +224,7 @@ int main() {
   背景
 </center>
 
-![等待](/Users/machenglong/Desktop/My_code/Game Design/Fishing_Game/Fishing_Game/img/等待.gif)
+![等待](../img/等待.gif)
 
 <center>
   角色设计
