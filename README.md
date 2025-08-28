@@ -91,7 +91,7 @@ Fishlime
  ┃ ┃ ┗ 类.pdf
  ┣ Fishlime_exe		 # 项目生成可执行文件
  ┃ ┣ ...
- ┃ ┣ Fishlime.exe	 # 点击运行即可
+ ┃ ┣ Fishlime.exe	 # 点击运行即可体验游戏
  ┃ ┗ ...
  ┣ .gitignore
  ┗ README.md
